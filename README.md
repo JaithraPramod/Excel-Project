@@ -1,5 +1,6 @@
 # Excel-Project
 ## Vitamin Deficiency and Associated Health Conditions
+<img width="1561" height="780" alt="Screenshot 2026-06-26 220719" src="https://github.com/user-attachments/assets/04e385c9-bf5d-4db9-a3c5-ab97617cfc96" />
 
 This project focuses on analyzing vitamin deficiency patterns and their association with various health conditions. The objective is to identify common deficiencies, understand their possible health impacts, and derive meaningful insights using Excel-based data analysis techniques.
 
